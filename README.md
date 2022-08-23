@@ -1,5 +1,5 @@
 # Geepeegit
 
-# Editin the file
+# Editing the file
 
 Its a markdown in ths repository
